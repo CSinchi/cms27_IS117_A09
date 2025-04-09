@@ -114,6 +114,10 @@ section li {
 	padding-bottom: .35em;
 }
 
+#ticket_packages {
+	list-style-type: circle;
+}
+
 /* the styles for the article */
 article {
 	padding: .5em 0;
